@@ -11,6 +11,7 @@ This project consists of multiple libraries:
 - Seaborn (Statistical data visualization)
 
 Screenshots Examples:
+
 -- Main Menu -- 
 <img width="406" height="223" alt="image" src="https://github.com/user-attachments/assets/fa3401f4-2ed1-4dd9-902a-c7d15a9f862d" />
 
