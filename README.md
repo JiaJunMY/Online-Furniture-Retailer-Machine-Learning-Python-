@@ -12,11 +12,11 @@ This project consists of multiple libraries:
 
 Screenshots Examples:
 
--- Main Menu -- 
+-- Main Menu -- </br>
 <img width="406" height="223" alt="image" src="https://github.com/user-attachments/assets/fa3401f4-2ed1-4dd9-902a-c7d15a9f862d" />
 
--- Top Items w/ Visualization Bar --
+-- Top Items w/ Visualization Bar -- </br>
 <img width="977" height="724" alt="image" src="https://github.com/user-attachments/assets/d8cf0a83-8c2e-40fe-a617-486bb95eaf77" />
 
--- View Chart (Average Customer Rating by Brand) -- 
+-- View Chart (Average Customer Rating by Brand) -- </br>
 <img width="802" height="739" alt="image" src="https://github.com/user-attachments/assets/babdda9d-fd0c-49cf-b745-48a70bb261d4" />
