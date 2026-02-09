@@ -4,11 +4,11 @@ This is a Python application for basic machine learning model. It is used for mo
 
 This project consists of multiple libraries:
 - NumPy (Numerical Computing)
-- Pandas (Reading CSV and modifying)
-- Scikit-learn (Machine Learning purposes)
-- TensorFlow (For deep learning)
-- MatPlotLib (Basic plotting/visualization library)
-- Seaborn (Statistical data visualization)
+- Pandas (Reading CSV files, manipulating data (edit, delete or add) and preprocessing)
+- Scikit-learn (Machine Learning models & utilities)
+- TensorFlow (For deep learning experimentation)
+- MatPlotLib (Data visualization plotting)
+- Seaborn (Statistical data visualization too)
 
 Screenshots Examples:
 
